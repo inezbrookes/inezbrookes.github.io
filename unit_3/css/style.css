@@ -1,0 +1,34 @@
+
+body {
+	background: #FFEADF;
+	color: #000000;
+	background-color: #FFEADF;
+}
+h1 {
+	color: #000000;
+	background-color: #FFEADF;
+	font-size: 170px;
+	font-style: : normal;
+	font-weight: bold;
+	text-align: center;
+	border: solid; border-width: thin; 
+}
+p {
+
+	font-size: 50px; 
+	text-align: center;
+}
+img.displayed { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto; } 
+ul {font-size: 60px;
+    list-style-type: none;
+	text-align: center;}
+li {font-size: 50px;}
+
+#slogan {font-size: 65px;
+font-style: italic;
+line-height: 0.1em;}
+
+
