@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:200');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 body {
 	background: #FFEADF;
@@ -11,7 +11,7 @@ h1 {
 	font-size: 170px;
 	text-align: center;
 	border: solid; border-width: thin; 
-font-family: 'Work Sans', sans-serif;
+font-family: 'Indie Flower', cursive;
 }
 p {
 
